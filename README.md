@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arielmiele
-- 👀 I’m interested in learning how to program my own games
-- 🌱 I’m currently learning C#, C++, Unity and Unreal
+- 👀 I’m interested in learning how to develop my own games
+- 🌱 I’m currently learning C#, C++, Unity and Unreal (also, some RPA to use at work!)
 - 💞️ I’m looking to collaborate on game development projects
 - 📫 How to reach me: https://www.linkedin.com/in/arielmiele/
 
